@@ -293,29 +293,6 @@ export const skills = [
 export const experiences = [
 
   {
-    organisation: "MetaViz Pro",
-    logo: metaviz,
-    link: "",
-    positions: [
-      {
-        title: "DevOps Engineer",
-        duration: "Feb 2025 - Present",
-        content: [
-          {
-            text: " Automated CI/CD pipelines using Jenkins & GitHub Actions, streamlining deployments with Docker & Kubernetes. Ensured high availability and scalability for cloud-based applications.",
-            link: "",
-          },
-          {
-            text: "Implemented Infrastructure as Code (IaC) with Terraform & Ansible on AWS, optimizing cloud resources and enhancing system reliability.",
-            link: ""
-          }
-          
-        ],
-      },
-    ],
-  },
-  
-  {
     organisation: "RoverPlay Studio",
     logo: roverplaystudio,
     link: "",
