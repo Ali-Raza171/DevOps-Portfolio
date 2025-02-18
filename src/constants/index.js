@@ -302,7 +302,7 @@ export const experiences = [
         duration: "Oct 2024 - Present",
         content: [
           {
-            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments: I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
+            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments:        I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
             link: "",
           },
           {
