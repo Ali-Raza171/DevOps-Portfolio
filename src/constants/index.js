@@ -293,6 +293,28 @@ export const skills = [
 export const experiences = [
 
   {
+    organisation: "Aspiring DevOps Engineer",
+    logo: remotely,
+    link: "",
+    positions: [
+      {
+        title: " Building & Automating Cloud Infrastructure with CI/CD & Terraform",
+        duration: "Oct 2024 - Present",
+        content: [
+          {
+            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments: I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
+            link: "",
+          },
+          {
+            text: "AWS Infrastructure Automation with Terraform: I have automated AWS infrastructure setup using Terraform, provisioning EC2 instances for workstations, S3 storage for data management, and DynamoDB tables for scalable databases. This experience has enhanced my expertise in Infrastructure as Code (IaC) and cloud automation.",
+            link: ""
+          }
+          
+        ],
+      },
+    ],
+  },
+  {
     organisation: "RoverPlay Studio",
     logo: roverplaystudio,
     link: "",
@@ -315,28 +337,7 @@ export const experiences = [
     ],
   },
  
-  {
-    organisation: "Remotely",
-    logo: remotely,
-    link: "",
-    positions: [
-      {
-        title: "Self-driven Game Developer",
-        duration: "June 2023 - Oct 2024",
-        content: [
-          {
-            text: "I have successfully developed 4 to 5 games, some projects created entirely from scratch and others with leveraging Unity assets. This experience showcases my versatility in game development, encompassing game design, asset integration, scripting in C#, and creating compelling gameplay mechanics. Each project highlights my ability to innovate and deliver engaging gaming experiences across different genres and platforms.",
-            link: "",
-          },
-          {
-            text: "The next target is to develop AR Based shooting Game, which is my FYP as well. Skilled in remote collaboration and passionate about leveraging innovative technologies to deliver engaging gaming experiences.",
-            link: ""
-          }
-          
-        ],
-      },
-    ],
-  },
+  
 ];
 
 
