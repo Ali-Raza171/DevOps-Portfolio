@@ -422,9 +422,25 @@ export const projects = [
   ],
   
 },
-
   {
     id: "project-5",
+    title: "AR-Based Shooting Game for Kids",
+    github: "",
+    
+    image: ar_game,
+    content:
+      "My Final Year Project (FYP), Experience an educational adventure with our AR-based shooting game designed for children. Combining the excitement of shooting gameplay with interactive math challenges, this project integrates Augmented Reality (AR) to create a fun and immersive learning experience. Children can explore AR-enhanced environments, solve math problems through gameplay, and enjoy dynamic educational entertainment.",
+    stack: [
+      {
+        id: "icon-1",
+        icon: SiCsharp,
+        name: "C#"
+      },
+    ],
+  },
+
+  {
+    id: "project-6",
     title: "Rolling Ball",
     github: "https://github.com/Ali-Raza171/Rolling-Ball",
     
@@ -443,40 +459,7 @@ export const projects = [
   },
   
   {
-    id: "project-6",
-    title: "Smash Hit (Hyper casual Game)",
-    github: "https://github.com/Ali-Raza171/Smash-Hit-HyperCasual-Game",
-    
-    image: smash_hit,
-    content:
-      "Smash Hit is a captivating 2D game asset for Unity, offering dynamic gameplay where players smash blocks and navigate challenges. It features customizable levels and engaging mechanics, ideal for creating interactive gaming experiences.",
-    stack: [
-      {
-        id: "icon-1",
-        icon: SiCsharp,
-        name: "C#"
-      },
-    
-    ],
-  },
-  {
     id: "project-7",
-    title: "3D FPS ",
-    github: "https://github.com/Ali-Raza171/3D-FPS-Game",
-    
-    image: nova_assault,
-    content:
-      "Developing an immersive FPS game using Unity's free FPS asset, featuring realistic terrain and engaging shooting mechanics. Incorporating detailed environments to enhance player experience and realism.",
-    stack: [
-      {
-        id: "icon-1",
-        icon: SiCsharp,
-        name: "C#"
-      },
-    ],
-  },
-  {
-    id: "project-8",
     title: "Mini Bounce",
     github: "https://github.com/Ali-Raza171/3D-PlateFormer",
     
@@ -491,38 +474,8 @@ export const projects = [
       },
     ],
   },
-  {
-    id: "project-9",
-    title: "AR-Based Shooting Game for Kids",
-    github: "",
-    
-    image: ar_game,
-    content:
-      "My Final Year Project (FYP), Experience an educational adventure with our AR-based shooting game designed for children. Combining the excitement of shooting gameplay with interactive math challenges, this project integrates Augmented Reality (AR) to create a fun and immersive learning experience. Children can explore AR-enhanced environments, solve math problems through gameplay, and enjoy dynamic educational entertainment.",
-    stack: [
-      {
-        id: "icon-1",
-        icon: SiCsharp,
-        name: "C#"
-      },
-    ],
-  },
-  {
-    id: "project-10",
-    title: "In Progress: Car Parking",
-    github: "",
-    
-    image: car_parking,
-    content:
-      "Currently, I'm deeply engaged in developing an exciting car parking game that focuses on creating challenging levels and delivering a highly realistic gameplay experience. This project involves meticulous level design to offer players a satisfying yet demanding gameplay environment. Utilizing advanced techniques with canvas rendering, I aim to enhance realism and immersion, ensuring players enjoy a true-to-life parking simulation. Stay tuned as I strive to elevate this project to its fullest potential.",
-    stack: [
-      {
-        id: "icon-1",
-        icon: SiCsharp,
-        name: "C#"
-      },
-    ],
-  },
+  
+  
 ];
 
 export const blogPosts = [
