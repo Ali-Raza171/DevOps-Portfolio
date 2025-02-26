@@ -457,25 +457,7 @@ export const projects = [
       
     ],
   },
-  
-  {
-    id: "project-7",
-    title: "Mini Bounce",
-    github: "https://github.com/Ali-Raza171/3D-PlateFormer",
-    
-    image: mini_bounce,
-    content:
-      "Building a dynamic 3D game from scratch where players control a jumping and moving ball, aiming to strategically hit capsules that trigger platform movements to advance through multiple challenging levels.",
-    stack: [
-      {
-        id: "icon-1",
-        icon: SiCsharp,
-        name: "C#"
-      },
-    ],
-  },
-  
-  
+   
 ];
 
 export const blogPosts = [
