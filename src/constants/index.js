@@ -112,7 +112,7 @@ export const educationList = [
     id: "education-1",
     icon: uol,
     title: "University of Lahore",
-    degree: "Bachelor of Software Engineering",
+    degree: "Bachelor of Science in Software Engineering (BSSE)",
     duration: "Spring 2021 - Fall 2025",
     content1: "Major: Software Engineering",
     content2: "Minor: Data Science",
