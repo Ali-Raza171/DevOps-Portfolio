@@ -293,15 +293,19 @@ export const skills = [
 export const experiences = [
 
   {
-    organisation: "Aspiring DevOps Engineer",
-    logo: remotely,
+    organisation: "DevOps Engineer",
+    logo: MetaViz Pro,
     link: "",
     positions: [
       {
         title: " Building & Automating Cloud Infrastructure with CI/CD & Terraform",
-        duration: "Oct 2024 - Present",
+        duration: "Feb 2025 - July 2025",
         content: [
           {
+            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments:        I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
+            link: "",
+          },
+             {
             text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments:        I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
             link: "",
           },
