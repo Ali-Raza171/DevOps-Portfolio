@@ -294,7 +294,7 @@ export const experiences = [
 
   {
     organisation: "DevOps Engineer",
-    logo: MetaViz Pro,
+    logo: MetaViz_Pro,
     link: "",
     positions: [
       {
