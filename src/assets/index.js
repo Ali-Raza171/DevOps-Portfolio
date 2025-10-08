@@ -3,6 +3,7 @@ import gamivision from "./gamivision.jpeg";
 import metaviz from "./metaviz.jpg";
 import roverplaystudio from "./roverplaystudio.jpeg";
 import remotely from "./remotely.jpg";
+import ntu from "./ntu.jpg";
 import uol from "./uol.jpeg";
 import college from "./college.jpg";
 import aws from "./aws.png";
@@ -51,6 +52,7 @@ export {
   metaviz,
   roverplaystudio,
   remotely,
+  ntu,
   uol,
   college,
   aws,
