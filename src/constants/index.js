@@ -109,24 +109,26 @@ export const navLinks = [
 ];
 
 export const educationList = [
-  {
+
+    {
     id: "education-1",
+    icon: ntu,
+    title: "Nottingham Trent University, UK",
+    degree: "MSc Artificial Intelligence",
+    duration: "Sept 2025 - Aug 2026",
+    content1: "Major: Artificial Intelligence & Machine Learning",
+    
+  },
+  {
+    id: "education-2",
     icon: uol,
     title: "University of Lahore",
-    degree: "Bachelor of Science in Software Engineering (BSSE)",
-    duration: "Spring 2021 - Fall 2025",
+    degree: "BS in Software Engineering (BSSE)",
+    duration: "Sept 2021 - Feb 2025",
     content1: "Major: Software Engineering",
     content2: "Minor: Data Science",
   },
-  {
-    id: "education-1",
-    icon: college,
-    title: "Gov. Islamia College, Civil Lines",
-    degree: "Intermediate",
-    duration: "March 2019 - May 2021",
-    content1: "Major: Computer Science",
-    
-  },
+
   
 ];
 
@@ -141,7 +143,7 @@ export const achievements = [
     content2: "Gained hands-on experience with AWS core services, including EC2, S3, Lambda, VPC, and IAM, optimizing cloud architectures for high availability and performance.",
     content3: "Applied AWS best practices in DevOps workflows, automating infrastructure deployment using Terraform, CloudFormation, and CI/CD pipelines.",
     article: "",
-    project: "",
+    project: "https://www.credly.com/badges/9957f7e0-ed7c-49dc-81cb-b0aba01ad31d/public_url",
     github: "",
   },
   
@@ -294,20 +296,20 @@ export const skills = [
 export const experiences = [
 
   {
-    organisation: "DevOps Engineer",
-    logo: MetaViz_Pro,
+    organisation: "MetaViz Pro",
+    logo: metaviz,
     link: "",
     positions: [
       {
-        title: " Building & Automating Cloud Infrastructure with CI/CD & Terraform",
+        title: " DevOps Engineer",
         duration: "Feb 2025 - July 2025",
         content: [
           {
-            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments:        I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
+            text: "Experience with CI/CD & Cloud Deployments:",
             link: "",
           },
-             {
-            text: "Hands-on DevOps Experience with CI/CD & Cloud Deployments:        I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
+           {
+            text: "I have deployed Jenkins and Docker-based projects on AWS EC2, set up CI/CD pipelines using Jenkins and GitHub, and containerized applications with Docker. My experience includes automating software delivery and ensuring scalable deployments in cloud environments.",
             link: "",
           },
           {
