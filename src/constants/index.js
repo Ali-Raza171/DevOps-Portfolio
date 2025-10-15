@@ -328,7 +328,7 @@ export const experiences = [
     positions: [
       {
         title: "Game Developer",
-        duration: "April 2024 - Jul 2024",
+        duration: "Apr 2024 - Jul 2024",
         content: [
           {
             text: "At Rover Play Studio, I honed my skills in game development by transforming existing games into new and engaging experiences. My role involved customizing the user interface, modifying character designs, and reshaping game environments to create unique and innovative gameplay.",
